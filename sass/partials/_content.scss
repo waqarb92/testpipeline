@@ -1,0 +1,8 @@
+$color_001: #000000; // Black
+$color_002: #FFFFFF; // White
+$color_003: #FF0000; // Red
+ 
+body {
+	color: $color_002;
+	background-color: $color_001;
+}
